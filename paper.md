@@ -10,7 +10,7 @@ The complex tapestry of human cognition is interwoven with threads of conception
 
 Preconceptions, as the term suggests, are cognitive constructs that pre-exist the formation of new conceptions. These are beliefs, assumptions, or notions we have already formed before we encounter new concepts, experiences, or evidence (Kelly, 1955). By predetermining our perspectives of new experiences, preconceptions subtly but significantly mold our perception, interpretation, and understanding of the world around us (Kahneman & Tversky, 1982).
 
-Given the pivotal role that preconceptions play in guiding our cognitive processes, a deep and detailed exploration of these constructs becomes essential (Neisser, 1976). To unravel the intricacies of our cognitive functioning, we must first delve into the core cognitive foundations that shape it, and preconceptions constitute a significant part of these foundations. Hence, in this paper, we will undertake an in-depth exploration of preconceptions, investigating their formation, their implications, and the significant role they play in the spheres of knowledge formation and language development (Bruner, Goodnow, & Austin, 1956).
+Given the pivotal role that preconceptions play in guiding our cognitive processes, a deep and detailed exploration of these constructs becomes essential (Neisser, 1976). To unravel the intricacies of our cognitive functioning, we must first delve into the core cognitive foundations that shape it, and preconceptions constitute a significant part of these foundations. Hence, in this paper, we will undertake an in-depth exploration of preconceptions, investigating their formation, their implications, and the significant role they play in the spheres of knowledge formation and language development.
 
 
 
@@ -104,9 +104,7 @@ Further research is necessary to fully elucidate the mechanisms through which pr
 - Dweck, C. S. (2006). Mindset: The New Psychology of Success. Random House.
 - Dweck, C.S., & Leggett, E.L. (1988). A social-cognitive approach to motivation and personality. Psychological Review, 95(2), 256–273.
 - Fiske, S. T., & Taylor, S. E. (2013). Social Cognition: From Brains to Culture. Sage.
-- Kuhn, T. S. (1962). The Structure of Scientific Revolutions. University of Chicago
-
- Press.
+- Kuhn, T. S. (1962). The Structure of Scientific Revolutions. University of Chicago Press.
 - Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220.
 - Piaget, J. (1952). The Origins of Intelligence in Children. International Universities Press.
 - Saussure, F. de. (1916). Course in General Linguistics. Open Court Publishing Company.
@@ -115,7 +113,6 @@ Further research is necessary to fully elucidate the mechanisms through which pr
 - Vygotsky, L. S. (1962). Thought and Language. MIT Press.
 - Whorf, B. L. (1956). Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf. MIT Press.
 - Bruner, J. (1957). On perceptual readiness. Psychological Review, 64(2), 123–152.
-- Bruner, J., Goodnow, J., & Austin, G. (1956). A Study of Thinking. John Wiley & Sons.
 - Festinger, L. (1957). A Theory of Cognitive Dissonance. Stanford University Press.
 - Gardner, H. (1985). The Mind's New Science: A History of the Cognitive Revolution. Basic Books.
 - Johnson-Laird, P. N. (1983). Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness. Harvard University Press.
